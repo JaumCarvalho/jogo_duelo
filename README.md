@@ -1,4 +1,4 @@
-# **Duelo**
+# **Duelo(Em Desenvolvimento)**
 
 **Duelo** é um jogo multiplayer local em que até 4 jogadores podem competir uns contra os outros em duelos. Cada jogador controla um personagem e tenta derrotar os oponentes utilizando habilidades e estratégias. O jogo é rápido, divertido e ideal para jogar com amigos em um ambiente local.
 

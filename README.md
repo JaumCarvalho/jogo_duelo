@@ -14,7 +14,7 @@ Antes de instalar e jogar, você precisará de:
 ### **Passo a Passo para Instalar**
 
 1. **Baixe o Jogo**:
-   - [Clique aqui para baixar o arquivo do jogo](https://github.com/JaumCarvalho/jogo_duelo/blob/master/jogo_duelo.zip).
+   - [Clique aqui para baixar o arquivo do jogo](https://github.com/JaumCarvalho/jogo_duelo/raw/refs/heads/master/jogo_duelo.zip).
 
 2. **Extraia o Arquivo**:
    - Após o download, extraia o conteúdo do arquivo compactado em uma pasta de sua escolha.

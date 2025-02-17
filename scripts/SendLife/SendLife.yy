@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SendLife",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SendLife",
+  "parent":{
+    "name":"ClientToServer",
+    "path":"folders/Scripts/ClientToServer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

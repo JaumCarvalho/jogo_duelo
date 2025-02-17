@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SendMyID",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SendMyID",
+  "parent":{
+    "name":"ClientToServer",
+    "path":"folders/Scripts/ClientToServer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

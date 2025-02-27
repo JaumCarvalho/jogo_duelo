@@ -9,7 +9,7 @@
 Antes de instalar e jogar, você precisará de:
 
 - **Sistema Operacional**: Windows
-- **Software**: Caso queria mexer nos códigos do projeto localmente, você precisará ter o **[Game Maker Studio 2](https://www.yoyogames.com/en/gamemaker)** instalado para rodar o projeto, já que foi desenvolvido nessa plataforma.
+- **Software**: Caso queria mexer nos códigos do projeto localmente, você precisará ter o **[Game Maker Studio 2](https://gamemaker.io/en/download)** instalado para rodar o projeto, já que foi desenvolvido nessa plataforma.
 
 ### **Passo a Passo para Instalar**
 

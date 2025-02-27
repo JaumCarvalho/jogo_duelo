@@ -1,4 +1,4 @@
-my_id = 0;
+my_id = 999;
 damage = 20;
 speed = 10;
 owner = noone;

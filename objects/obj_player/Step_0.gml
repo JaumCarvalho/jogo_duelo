@@ -14,6 +14,12 @@ if(place_free(x, y+vspd)){
 	vspd = distance_to_object(obj_solid)*sign(vspd)
 }
 
+if(mouse_check_button_pressed(mb_left)){
+	var disparo = instance_create_layer(obj_player.x,obj_player.y+40,"Instances_1", obj_bullet);
+	disparo.speed = 10;
+	disparo.direction = point_direction(x,y,mouse_x,mouse_y);
+}
+
 //sprite handling
 if(hspd == 0){
 	sprite_index = idle_sprite;

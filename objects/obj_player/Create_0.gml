@@ -12,12 +12,13 @@ walking_speed = 4;
 hspd = 0;
 vspd = 0;
 life = obj_client.life;
-my_id=-1;
+my_id=-999;
 name = "player";
 
 if(instance_exists(obj_server)){
 	visible=false;
 }
+
 character = 0;
 
 HandleSprites(character);

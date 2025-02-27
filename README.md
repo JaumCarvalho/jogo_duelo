@@ -20,7 +20,7 @@ Antes de instalar e jogar, você precisará de:
    - Após o download, extraia o conteúdo do arquivo compactado em uma pasta de sua escolha.
 
 3. **Executando o Jogo**:
-   - **Windows**: Basta clicar no arquivo executável `duelo.exe` para iniciar o jogo.
+   - **Windows**: Basta clicar no arquivo executável `jogo_duelo.exe` para iniciar o jogo.
 
 ---
 

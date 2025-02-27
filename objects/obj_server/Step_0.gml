@@ -1,5 +1,4 @@
 for(var i=0;i<instance_number(obj_player);i++){
-	var b = instance_find(obj_bullet, i);
 	var pl = instance_find(obj_player, i);
 	for(var s=0;s<ds_list_size(sockets);s++){
 		var so = ds_list_find_value(sockets, s);

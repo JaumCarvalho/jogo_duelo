@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"jogo duelo",
+  "%Name":"jogo_duelo",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -39,11 +39,10 @@
   "MetaData":{
     "IDEVersion":"2024.11.0.179",
   },
-  "name":"jogo duelo",
+  "name":"jogo_duelo",
   "resources":[
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},},
     {"id":{"name":"fnt_small","path":"fonts/fnt_small/fnt_small.yy",},},
-    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
     {"id":{"name":"obj_client","path":"objects/obj_client/obj_client.yy",},},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},},
@@ -51,7 +50,7 @@
     {"id":{"name":"obj_remote_entity","path":"objects/obj_remote_entity/obj_remote_entity.yy",},},
     {"id":{"name":"obj_server","path":"objects/obj_server/obj_server.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
-    {"id":{"name":"obj_varinha","path":"objects/obj_varinha/obj_varinha.yy",},},
+    {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"HandleSprites","path":"scripts/HandleSprites/HandleSprites.yy",},},
@@ -87,6 +86,7 @@
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},},
     {"id":{"name":"spr_solid","path":"sprites/spr_solid/spr_solid.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
+    {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
     {"id":{"name":"spr_varinha","path":"sprites/spr_varinha/spr_varinha.yy",},},
     {"id":{"name":"tile_tileset","path":"tilesets/tile_tileset/tile_tileset.yy",},},
   ],

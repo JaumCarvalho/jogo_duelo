@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_varinha",
+  "%Name":"obj_tiro",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_varinha",
+  "name":"obj_tiro",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_varinha",
-    "path":"sprites/spr_varinha/spr_varinha.yy",
+    "name":"spr_tiro",
+    "path":"sprites/spr_tiro/spr_tiro.yy",
   },
   "spriteMaskId":null,
   "visible":true,

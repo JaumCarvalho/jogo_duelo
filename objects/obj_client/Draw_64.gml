@@ -8,21 +8,21 @@ if(!playing){
 	//draw select character menu
 	draw_set_color(c_white);
 	draw_text(room_width/2,50,"Selecione seu personagem");
-	var sp = archer_menu;
+	var sp = mage_red_menu;
 	
-	for(var i=0; i<=CHAR_MAGE;i++){
+	for(var i=0; i<=CHAR_MAGE_YELLOW;i++){
 		switch(i){
-		case CHAR_ARCHER:
-			sp = archer_menu;
+		case CHAR_MAGE_RED:
+			sp = mage_red_menu;
 		break;
-		case CHAR_GOBLIN:
-			sp = goblin_menu;
+		case CHAR_MAGE_BLUE:
+			sp = mage_blue_menu;
 		break;
-		case CHAR_KNIGHT:
-			sp = knight_menu;
+		case CHAR_MAGE_GREEN:
+			sp = mage_green_menu;
 		break;
-		case CHAR_MAGE:
-			sp = mage_menu;
+		case CHAR_MAGE_YELLOW:
+			sp = mage_yellow_menu;
 		break;
 		}
 		var ib = c_green;

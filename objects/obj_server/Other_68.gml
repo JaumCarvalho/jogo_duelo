@@ -26,7 +26,7 @@ if (server == event_id){
 			SendRemoteEntity(sock, CMD_LIFE, pl.id, pl.life);
 		}
 		
-		for(var c=0;c<=CHAR_MAGE;c++){
+		for(var c=0;c<=CHAR_MAGE_YELLOW;c++){
 			var a = false;
 			if(ds_list_find_value(avaiable_characters, ds_list_find_index(avaiable_characters, c))!= undefined){
 				a=true;

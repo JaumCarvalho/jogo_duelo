@@ -1,24 +1,24 @@
 function HandleSprites(){
 	switch(argument0){
-		case CHAR_ARCHER:
-			idle_sprite = archer_idle;
-			run_sprite = archer_run;
-			menu_sprite = archer_menu;
+		case CHAR_MAGE_RED:
+			idle_sprite = mage_red_idle;
+			run_sprite = mage_red_run;
+			menu_sprite = mage_red_menu;
 		break;
-		case CHAR_GOBLIN:
-			idle_sprite = goblin_idle;
-			run_sprite = goblin_run;
-			menu_sprite = goblin_menu;
+		case CHAR_MAGE_BLUE:
+			idle_sprite = mage_blue_idle;
+			run_sprite = mage_blue_run;
+			menu_sprite = mage_blue_menu;
 		break;
-		case CHAR_KNIGHT:
-			idle_sprite = knight_idle;
-			run_sprite = knight_run;
-			menu_sprite = knight_menu;
+		case CHAR_MAGE_GREEN:
+			idle_sprite = mage_green_idle;
+			run_sprite = mage_green_run;
+			menu_sprite = mage_green_menu;
 		break;
-		case CHAR_MAGE:
-			idle_sprite = mage_idle;
-			run_sprite = mage_run;
-			menu_sprite = mage_menu;
+		case CHAR_MAGE_YELLOW:
+			idle_sprite = mage_yellow_idle;
+			run_sprite = mage_yellow_run;
+			menu_sprite = mage_yellow_menu;
 		break;
 	}
 }

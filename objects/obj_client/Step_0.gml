@@ -51,7 +51,7 @@ if(playing){
 	}
 }
 
-char = clamp(char, 0, CHAR_MAGE);
+char = clamp(char, 0, CHAR_MAGE_YELLOW);
 
 // loop through every clients object
 for(var i=0;i<instance_number(obj_remote_entity);i++){

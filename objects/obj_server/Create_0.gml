@@ -15,10 +15,10 @@
 #macro PACKET_LIFE 9
 
 //characters
-#macro CHAR_ARCHER 0
-#macro CHAR_GOBLIN 1
-#macro CHAR_KNIGHT 2
-#macro CHAR_MAGE 3
+#macro CHAR_MAGE_RED 0
+#macro CHAR_MAGE_BLUE 1
+#macro CHAR_MAGE_GREEN 2
+#macro CHAR_MAGE_YELLOW 3
 global.picked_char = false;
 server_name = "Meu servidor";
 server_desc = "Jogue se quiser"
@@ -38,9 +38,9 @@ clients = ds_map_create();
 sockets = ds_list_create();
 
 avaiable_characters = ds_list_create();
-ds_list_add(avaiable_characters, CHAR_ARCHER);
-ds_list_add(avaiable_characters, CHAR_GOBLIN);
-ds_list_add(avaiable_characters, CHAR_KNIGHT);
-ds_list_add(avaiable_characters, CHAR_MAGE);
+ds_list_add(avaiable_characters, CHAR_MAGE_RED);
+ds_list_add(avaiable_characters, CHAR_MAGE_BLUE);
+ds_list_add(avaiable_characters, CHAR_MAGE_GREEN);
+ds_list_add(avaiable_characters, CHAR_MAGE_YELLOW);
 
 alarm[0] = room_speed;

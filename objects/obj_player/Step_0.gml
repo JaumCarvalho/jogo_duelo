@@ -20,4 +20,3 @@ if(hspd == 0){
 } else{
 	sprite_index = run_sprite;
 }
-
